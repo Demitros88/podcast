@@ -7,7 +7,7 @@
     <language>ru-ru</language>
     <item>
       <title>Эпизод 1</title>
-      <enclosure url="https://github.com/Demitros88/podcast/blob/main/01.mp3" length="3764964" type="audio/mpeg" />
+      <enclosure url="https://raw.githubusercontent.com/Demitros88/podcast/main/01.mp3" length="3764964" type="audio/mpeg"/>
       <guid>episode-1</guid>
       <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
       <description>Первый эпизод подкаста «Кровавый меридиан».</description>
