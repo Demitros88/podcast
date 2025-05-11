@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Кровавый меридиан (одиночный эпизод)</title>
+    <link>https://yourusername.github.io/krovavy-meridian-podcast/</link>
+    <description>Одиночный эпизод подкаста «Кровавый меридиан».</description>
+    <language>ru-ru</language>
+    <item>
+      <title>Эпизод 1</title>
+      <enclosure url="https://yourusername.github.io/krovavy-meridian-podcast/01.mp3" length="3764964" type="audio/mpeg" />
+      <guid>episode-1</guid>
+      <pubDate>Sun, 11 May 2025 12:00:00 +0000</pubDate>
+      <description>Первый эпизод подкаста «Кровавый меридиан».</description>
+    </item>
+  </channel>
+</rss>
